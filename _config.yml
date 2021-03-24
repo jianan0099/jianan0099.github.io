@@ -2,13 +2,3 @@ title: Iris YE
 logo: /assets/img/logo.png
 description: No description
 theme: jekyll-theme-minimal
-
-defaults:
-  -
-    scope:
-      path: ''
-      type: 'posts'
-    value:
-      layout: 'post'
-      author: 'Iris YE'
-comments: true
