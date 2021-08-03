@@ -1,5 +1,5 @@
-# Simplest Blued Crawler Tutorial
 #### PC: MacBook Pro (High Sierra 10.13.6); Mobile device: iPad mini (14.6); Charles (version 4.5.6)
+#### App: Blued
 ## Charles
 ### Charles Intro
 We need Charles to analyze requests, responses and the HTTP headers. You can find Charles [here](https://www.charlesproxy.com).
