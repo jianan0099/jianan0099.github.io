@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Simplest App Crawler Tutorial (Step 1: Preparation)"
+title:  "Simplest App Crawler Tutorial (Step 1: Preparations)"
 author: Iris
 ---
 #### PC: MacBook Pro (High Sierra 10.13.6); Mobile device: iPad mini (14.6); Charles (version 4.5.6)
